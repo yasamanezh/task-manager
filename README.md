@@ -15,16 +15,19 @@ step4:
 php artisan key:generate
 
 step5:
+
 php artisan migrate
 
 php artisan db:seed
 
 step6:
+
 npm install
 
 npm run dev
 
 step 7:
+
 php artisan serve
 
 
